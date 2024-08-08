@@ -1,0 +1,22 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment directory
+venv/
+env/
+
+# macOS system files
+.DS_Store
+
+# Editor/IDE files
+.vscode/
+
+# Ignore all log files
+*.log
+
+# Ignore the main python executable if there's any (for example, a temporary or compiled version)
+main

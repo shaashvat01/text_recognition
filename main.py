@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # read image
-image_path = 'test4.jpg'
+image_path = 'testing/test1.png'
 
 img = cv2.imread(image_path)
 
